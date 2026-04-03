@@ -1,3 +1,6 @@
+> [!NOTE]  
+> Welcome! The `usrp_b210_fpga.bin` is located [here](/需替换BIN文件/usrp_b210_fpga.bin) (you must replace it in your UHD images folder).<br>All documentation in this repository is in Chinese, as it was received this way and has been kept unmodified.
+
 # 1. 功能说明
 
 此 USRP B210 基于原版优化改进而来，使用较新系列的 K7 替代原版的 S6 系列，支持
