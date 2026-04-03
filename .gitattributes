@@ -1,1 +1,2 @@
 windows软件/uhd_4.6.0.0-release_Win64_VS2019.exe filter=lfs diff=lfs merge=lfs -text
+固件源工程/B210_Project_Firmwire.zip filter=lfs diff=lfs merge=lfs -text
